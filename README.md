@@ -1,4 +1,4 @@
-# currency
+# currency recognition
 
 A new Flutter project.
 
